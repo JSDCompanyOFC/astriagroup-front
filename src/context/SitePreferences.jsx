@@ -20,7 +20,7 @@ const translations = {
       { name: 'Flávio', role: 'Desenvolvedor · Colaborador', bio: 'Amigo e desenvolvedor, Flávio apoia o time de perto e ajuda a transformar ideias em produtos digitais.' },
     ] },
     journey: { section: '04 / NOSSA JORNADA', eyebrow: 'O ENCONTRO QUE NOS MOVE', title: ['Grandes ideias', 'nascem do', 'encontro.'], description: 'Assim como galáxias que se aproximam e transformam tudo ao redor, acreditamos que resultados extraordinários surgem quando pessoas, ideias e propósito se encontram.', cta: 'Conheça nossa essência', note: 'UMA METÁFORA VISUAL — NÃO UMA SIMULAÇÃO ASTRONÔMICA' },
-    footer: { eyebrow: 'FAÇA PARTE DO QUE VEM DEPOIS', title: ['Vamos construir', 'o próximo capítulo?'], contact: 'Entre em contato', tagline: 'Construindo o que vem depois.', links: 'Links do rodapé', news: 'NOTAS DO UNIVERSO ÁSTRIA', newsDescription: 'Novidades e ideias, de vez em quando.', email: 'Seu e-mail', subscribe: 'Inscrever-se', copyright: 'Todos os direitos reservados.', backToTop: 'Voltar ao topo ↑' },
+    footer: { eyebrow: 'FAÇA PARTE DO QUE VEM DEPOIS', title: ['Vamos construir', 'o próximo capítulo?'], contact: 'Entre em contato', whatsapp: 'Fale com a gente no WhatsApp', tagline: 'Construindo o que vem depois.', links: 'Links do rodapé', news: 'NOTAS DO UNIVERSO ÁSTRIA', newsDescription: 'Novidades e ideias, de vez em quando.', email: 'Seu e-mail', subscribe: 'Inscrever-se', copyright: 'Todos os direitos reservados.', backToTop: 'Voltar ao topo ↑' },
   },
   en: {
     nav: { home: 'Home', products: 'Products', about: 'About', founders: 'Founders', journey: 'Our story', contact: 'Contact', aria: 'Main navigation' },
@@ -39,7 +39,7 @@ const translations = {
       { name: 'Flávio', role: 'Developer · Collaborator', bio: 'A friend and developer, Flávio supports the team closely and helps turn ideas into digital products.' },
     ] },
     journey: { section: '04 / OUR STORY', eyebrow: 'WHAT BRINGS US TOGETHER', title: ['Great things', 'happen when', 'ideas meet.'], description: 'Like galaxies drawn together and changed by the encounter, we believe great work happens when people, ideas, and purpose come together.', cta: 'Learn what we believe', note: 'AN ARTISTIC METAPHOR — NOT AN ASTRONOMICAL SIMULATION' },
-    footer: { eyebrow: 'BE PART OF WHAT COMES NEXT', title: ['Let’s build', 'the next chapter.'], contact: 'Get in touch', tagline: 'Building what comes next.', links: 'Footer links', news: 'NOTES FROM THE ÁSTRIA UNIVERSE', newsDescription: 'Occasional updates and ideas.', email: 'Your email', subscribe: 'Subscribe', copyright: 'All rights reserved.', backToTop: 'Back to top ↑' },
+    footer: { eyebrow: 'BE PART OF WHAT COMES NEXT', title: ['Let’s build', 'the next chapter.'], contact: 'Get in touch', whatsapp: 'Chat with us on WhatsApp', tagline: 'Building what comes next.', links: 'Footer links', news: 'NOTES FROM THE ÁSTRIA UNIVERSE', newsDescription: 'Occasional updates and ideas.', email: 'Your email', subscribe: 'Subscribe', copyright: 'All rights reserved.', backToTop: 'Back to top ↑' },
   },
 }
 
